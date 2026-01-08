@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ale, im 14 years old
+- 👋 Hi, I’m Ale, im 16 years old
 - 👀 I’m interested in programming and games
-- 🌱 I’m currently learning css and html
+- 🌱 I’m currently learning JavaScript
 - 📫 Reach me in alessandronaumann@gmail.com
