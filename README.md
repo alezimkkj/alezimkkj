@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ale, im 16 years old
 - 👀 I’m interested in programming and games
-- 🌱 I’m currently learning JavaScript and Tailwind CSS.
+- 🌱 I’m currently React.
 - 📫 Reach me in alessandronaumann@gmail.com
